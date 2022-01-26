@@ -1,0 +1,22 @@
+Gentrification of Richmond – Study Overview Summary
+Authors: Angela Angulo, Bonnie Bailey, Joseph March, and Marisa Kiger
+Date: 9/7/2020
+GitHub: Team-Sociotracker   https://github.com/designergal3002/Team-Sociotracker.git
+Hypothesis: 
+An expectation that crime reported will decrease as average housing values increase for neighborhoods.
+Research Questions and Findings:
+1.	How does Gentrification affect crime rates?
+Findings:
+Line graph “Total Crime for All of Richmond vs in Gentrified Neighborhoods” and Bar graph “Total Crime by Neighborhood” displayed that the city in its entirety and 6 of the 7 chosen neighborhoods showed a reduction in crime from 2000 to 2020.  
+
+2.	How does the rate of crime relate to the cost of housing?
+Findings:
+Scatterplot “Total Crime vs Average Housing Value (2000-2020)” shows a weak negative correlation for the city of Richmond in its entirety.  
+
+Line graph “Avg Housing Value for All Richmond vs Gentrified Neighborhoods (2000-2020)” shows an increase in housing values over the 20-year period for all areas.  It also displays that each area differs in the rate of increase over time.  
+
+Line graphs “Average Housing Value vs Total Crime- ALL RICHMOND (2000-2020)”, “Average Housing value vs Total Crime – SCOTTS ADDITION (2000-2020)”, “Average Housing value vs Total Crime – CHURCH HILL (2000-2020)”, “Average Housing value vs Total Crime – CHURCH HILL NORTH (2000-2020)”, and “Average Housing value vs Total Crime – JACKSON WARD (2000-2020)”, show an inverse relationship where housing values increase while crime rates decrease.
+
+Line graphs “Average Housing value vs Total Crime – MANCHESTER (2000-2020)”, “Average Housing value vs Total Crime – OREGON HILL (2000-2020)”, and “Average Housing value vs Total Crime – SHOCKOE BOTTOM (2000-2020)”, show housing values increase but crime rate patterns vary and are not proportionally related to the rate of increase seen with housing values.
+
+The box and whisker plots “Total Crime at Start (2000) and end (2020)” and “Average House Price at Start (2000) and End (2020)” shows that the selected neighborhoods are developing at different rates.  Progression over time is not equivalent from neighborhood to neighborhood, but 4 of the 7 neighborhoods did show lower crime rate in 2020 along-side increased housing values.
